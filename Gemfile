@@ -43,3 +43,5 @@ group :production do
 end
 
 gem 'rspec-rails', '2.9.0'
+
+gem 'capybara'
